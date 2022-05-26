@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B04283?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # OpenCV By Example
 
 <a href="https://www.packtpub.com/application-development/opencv-example?utm_source=github&utm_medium=repository&utm_campaign=9781785280948 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/0948OS_4283_OpenCV%20By%20Example.jpg" alt="OpenCV By Example" height="256px" align="right"></a>
